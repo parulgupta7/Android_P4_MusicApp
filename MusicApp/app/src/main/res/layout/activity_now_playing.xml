@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.musicapp.NowPlaying">
+
+    <ImageView
+        android:id="@+id/art"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:src="@mipmap/icon" />
+
+    <TextView
+        android:id="@+id/song"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/art"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Song Name"
+        android:textColor="#000000"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/album"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/song"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:text="Album Name"
+        android:textColor="#000000"
+        android:textSize="30sp" />
+
+
+    <TextView
+        android:id="@+id/artist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/album"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:text="Artist Name"
+        android:textColor="#000000"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/button_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/artist"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="BACK"
+        android:textColor="#ff0000"
+        android:textSize="20sp" />
+
+</RelativeLayout>

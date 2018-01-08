@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Music App</string>
+
+
+    <string name="song_1_name">Despacito</string>
+    <string name="song_2_name">Hostel</string>
+    <string name="song_3_name">Perfect</string>
+    <string name="song_4_name">Gangland</string>
+    <string name="song_5_name">The Night We Met</string>
+    <string name="song_6_name">Shape Of You</string>
+    <string name="song_7_name">Pyaar</string>
+    <string name="song_8_name">Jind Maahi</string>
+    <string name="song_9_name">Glorious Gallan</string>
+    <string name="song_10_name">Ni Aaja Ve</string>
+
+    <string name="song_1_album">DY</string>
+    <string name="song_2_album">Parmish Verma</string>
+    <string name="song_3_album">Andrea Bocelli</string>
+    <string name="song_4_album">Deep Jandu</string>
+    <string name="song_5_album">13 Reasons why</string>
+    <string name="song_6_album">Album</string>
+    <string name="song_7_album">Goreyan nu daffa karo</string>
+    <string name="song_8_album">Angrej</string>
+    <string name="song_9_album">Super Singh</string>
+    <string name="song_10_album">Speedy Singhs</string>
+
+
+    <string name="song_1_artist">Luis fonsi</string>
+    <string name="song_2_artist">Sharry Mann</string>
+    <string name="song_3_artist">Ed Sheeran</string>
+    <string name="song_4_artist">Mankirat Aulakh</string>
+    <string name="song_5_artist">Lord Huron</string>
+    <string name="song_6_artist">Ed Sheeran</string>
+    <string name="song_7_artist">Prabh Gill</string>
+    <string name="song_8_artist">Amrinder Gill</string>
+    <string name="song_9_artist">Diljit Dosanjh</string>
+    <string name="song_10_artist">Veronica Mehta</string>
+
+
+</resources>
